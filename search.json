@@ -100,16 +100,6 @@
     ]
   },
   {
-    "objectID": "about_me.html",
-    "href": "about_me.html",
-    "title": "About Me",
-    "section": "",
-    "text": "Undergraduate Work\nI attended the University of Alabama from 2011 to 2015, graduating with a B.S. in Physics and Mathematics with a minor in German. At Alabama, I spent time working for Dr. Dawn Williams and Dr. Conor Henderson (now at the University of Cinncinati).\nDr. Williams works on the IceCube neutrino experiment, which studies astrophysical neutrinos in the TeV to PeV energy range from active galactic nuclei and gamma ray bursts. My work involved studying calibration data and writing tests for the monitoring system used in the detector.\nAt the time, Dr. Henderson worked on the Compact Muon Solenoid (CMS) experiment, which studies a wide range of high energy physics topics, including probing the Standard Model, searching for extra dimensions, and looking for dark matter particle candidates. My work in the Henderson group focused on studying how different values used in a model would affect the kinematics of the decay products observed by the detector.\n\n\nGraduate Work\nI began my graduate research under Kendall Mahn at Michigan State University in the summer of 2015. My initial work was spent investigating possible model updates for a neutrino interaction simulator.\nIn the spring of 2016, I joined the T2K experiment, a neutrino oscillation experiment based in Tokai, Japan. That summer, I was awarded the Japan Society for the Promotion of Science (JSPS) Summer Program fellowship to study in Kashiwa, Japan for ten weeks. I spent my time in Japan studying the viability of a change to one of the third-party software programs used by T2K’s neutrino interaction simulator.\nMy dissertation research involved incorporating additional samples from the T2K near detector and testing model effects on the results of the neutrino oscillation analysis.\n\n\nCurrent Work\nAfter receiving my Ph.D. in 2019, I was hired into the Shen lab as a Bioinformatics Research Scientist. My work now involves maintaining BISCUIT, a command line tool to align and study DNA methylation using bisulfite (or bisulfite-like) sequencing data, as well as writing and maintaining other analysis tools used by myself and members of the lab.",
-    "crumbs": [
-      "About Me"
-    ]
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Jacob Morrison",
@@ -117,6 +107,16 @@
     "text": "Note\n\n\n\nThis website is adapted from my original personal website. It has been updated to be built with Quarto. The text and publication list has also been updated.\n\n\nMy name is Jacob Morrison and I am a Bioinformatics Research Scientist in the Shen lab.\nA brief background on my research can be found on the About Me page and a list of my publications can be found on the Publications page.",
     "crumbs": [
       "Home"
+    ]
+  },
+  {
+    "objectID": "about_me.html",
+    "href": "about_me.html",
+    "title": "About Me",
+    "section": "",
+    "text": "Undergraduate Work\nI attended the University of Alabama from 2011 to 2015, graduating with a B.S. in Physics and Mathematics with a minor in German. At Alabama, I spent time working for Dr. Dawn Williams and Dr. Conor Henderson (now at the University of Cinncinati).\nDr. Williams works on the IceCube neutrino experiment, which studies astrophysical neutrinos in the TeV to PeV energy range from active galactic nuclei and gamma ray bursts. My work involved studying calibration data and writing tests for the monitoring system used in the detector.\nAt the time, Dr. Henderson worked on the Compact Muon Solenoid (CMS) experiment, which studies a wide range of high energy physics topics, including probing the Standard Model, searching for extra dimensions, and looking for dark matter particle candidates. My work in the Henderson group focused on studying how different values used in a model would affect the kinematics of the decay products observed by the detector.\n\n\nGraduate Work\nI began my graduate research under Kendall Mahn at Michigan State University in the summer of 2015. My initial work was spent investigating possible model updates for a neutrino interaction simulator.\nIn the spring of 2016, I joined the T2K experiment, a neutrino oscillation experiment based in Tokai, Japan. That summer, I was awarded the Japan Society for the Promotion of Science (JSPS) Summer Program fellowship to study in Kashiwa, Japan for ten weeks. I spent my time in Japan studying the viability of a change to one of the third-party software programs used by T2K’s neutrino interaction simulator.\nMy dissertation research involved incorporating additional samples from the T2K near detector and testing model effects on the results of the neutrino oscillation analysis.\n\n\nCurrent Work\nAfter receiving my Ph.D. in 2019, I was hired into the Shen lab as a Bioinformatics Research Scientist. My work now involves maintaining BISCUIT, a command line tool to align and study DNA methylation using bisulfite (or bisulfite-like) sequencing data, as well as writing and maintaining other analysis tools used by myself and members of the lab.",
+    "crumbs": [
+      "About Me"
     ]
   }
 ]

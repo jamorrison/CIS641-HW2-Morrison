@@ -1,0 +1,13 @@
+---
+title: "Jacob Morrison"
+---
+
+::: {.callout-note}
+This website is adapted from my [original personal website](https://jamorrison.github.io). It has been updated to be
+built with [Quarto](https://quarto.org). The text and publication list has also been updated.
+:::
+
+My name is Jacob Morrison and I am a Bioinformatics Research Scientist in the [Shen lab](https://shenlab.vai.org).
+
+A brief background on my research can be found on the [About Me](about_me.qmd) page and a list of my publications can
+be found on the [Publications](publications.qmd) page.

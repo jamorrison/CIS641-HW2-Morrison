@@ -41,3 +41,6 @@ genome. Currently, the quality control step uses [bedtools](https://github.com/a
 took the opportunity provided by my full semester project to work to improve the speed of this process. It was written
 in C in order to plug in to BISCUIT following completion of the class and is multithreaded for improved processing
 efficiency.
+
+The project webpage can be found at:
+[https://jamorrison.github.io/GVSU-CIS641-PackingTheBits/](https://jamorrison.github.io/GVSU-CIS641-PackingTheBits/).

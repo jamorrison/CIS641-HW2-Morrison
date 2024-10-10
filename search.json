@@ -1,5 +1,55 @@
 [
   {
+    "objectID": "about_me.html",
+    "href": "about_me.html",
+    "title": "About Me",
+    "section": "",
+    "text": "Undergraduate Work\nI attended the University of Alabama from 2011 to 2015, graduating with a B.S. in Physics and Mathematics with a minor in German. At Alabama, I spent time working for Dr. Dawn Williams and Dr. Conor Henderson (now at the University of Cinncinati).\nDr. Williams works on the IceCube neutrino experiment, which studies astrophysical neutrinos in the TeV to PeV energy range from active galactic nuclei and gamma ray bursts. My work involved studying calibration data and writing tests for the monitoring system used in the detector.\nAt the time, Dr. Henderson worked on the Compact Muon Solenoid (CMS) experiment, which studies a wide range of high energy physics topics, including probing the Standard Model, searching for extra dimensions, and looking for dark matter particle candidates. My work in the Henderson group focused on studying how different values used in a model would affect the kinematics of the decay products observed by the detector.\n\n\nGraduate Work\nI began my graduate research under Kendall Mahn at Michigan State University in the summer of 2015. My initial work was spent investigating possible model updates for a neutrino interaction simulator.\nIn the spring of 2016, I joined the T2K experiment, a neutrino oscillation experiment based in Tokai, Japan. That summer, I was awarded the Japan Society for the Promotion of Science (JSPS) Summer Program fellowship to study in Kashiwa, Japan for ten weeks. I spent my time in Japan studying the viability of a change to one of the third-party software programs used by T2K’s neutrino interaction simulator.\nMy dissertation research involved incorporating additional samples from the T2K near detector and testing model effects on the results of the neutrino oscillation analysis.\n\n\nCurrent Work\nAfter receiving my Ph.D. in 2019, I was hired into the Shen lab as a Bioinformatics Research Scientist. My work now involves maintaining BISCUIT, a command line tool to align and study DNA methylation using bisulfite (or bisulfite-like) sequencing data, as well as writing and maintaining other analysis tools used by myself and members of the lab.",
+    "crumbs": [
+      "About Me"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Jacob Morrison",
+    "section": "",
+    "text": "Note\n\n\n\nThis website is adapted from my original personal website. It has been updated to be built with Quarto. The text and publication list has also been updated.\nMy name is Jacob Morrison and I am a Bioinformatics Research Scientist in the Shen lab.\nA brief background on my research can be found on the About Me page and a list of my publications can be found on the Publications page.",
+    "crumbs": [
+      "Home"
+    ]
+  },
+  {
+    "objectID": "index.html#fun-facts",
+    "href": "index.html#fun-facts",
+    "title": "Jacob Morrison",
+    "section": "Fun Facts",
+    "text": "Fun Facts\n\nI spend a lot of time reading books (typically fantasy and thrillers)\nI also enjoy playing with my son\nFor work, I write software to aid in studying the origins of ovarian cancer",
+    "crumbs": [
+      "Home"
+    ]
+  },
+  {
+    "objectID": "index.html#basic-technical-background",
+    "href": "index.html#basic-technical-background",
+    "title": "Jacob Morrison",
+    "section": "Basic Technical Background",
+    "text": "Basic Technical Background\nHere is a basic overview of my technical skills. More detail can be found on the About Me page.\n\nPh.D. in Particle Physics\nProgramming for 13 years\n\nStarted with C++\nOver time, I’ve added Python, Rust, C, R, and other languages",
+    "crumbs": [
+      "Home"
+    ]
+  },
+  {
+    "objectID": "index.html#gvsu-cis-641-project",
+    "href": "index.html#gvsu-cis-641-project",
+    "title": "Jacob Morrison",
+    "section": "GVSU CIS 641 Project",
+    "text": "GVSU CIS 641 Project\nAs a part of my M.S. in Applied Computer Science at GVSU, I took CIS 641: Systems Analysis and Design which required a full semester project as a part of the homework.\nFor my project, I worked on a tool which calculates the “coverage” across an entire genome. A genome is the full set of A’s, T’s, C’s, and G’s that comprise a species’ DNA. The coverage is the number of “reads” (small chunks of DNA that have been sequenced), that span a given location in the genome. One of the tools I maintain at work is BISCUIT, which aligns reads to their correct location in the genome. It has a quality control step that finds the coverage to ensure a sequencing experiment has consistently covered the entire genome. Currently, the quality control step uses bedtools, but it is slow and I took the opportunity provided by my full semester project to work to improve the speed of this process. It was written in C in order to plug in to BISCUIT following completion of the class and is multithreaded for improved processing efficiency.\nThe project webpage can be found at: https://jamorrison.github.io/GVSU-CIS641-PackingTheBits/.",
+    "crumbs": [
+      "Home"
+    ]
+  },
+  {
     "objectID": "publications.html",
     "href": "publications.html",
     "title": "Publications",
@@ -97,56 +147,6 @@
     "text": "2015\n\nGENIE Collaboration. Alam, M., et al. GENIE Production Release 2.10.0. (2015). Preprint at https://arxiv.org/abs/1512.06882v2",
     "crumbs": [
       "Publications"
-    ]
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Jacob Morrison",
-    "section": "",
-    "text": "Note\n\n\n\nThis website is adapted from my original personal website. It has been updated to be built with Quarto. The text and publication list has also been updated.\nMy name is Jacob Morrison and I am a Bioinformatics Research Scientist in the Shen lab.\nA brief background on my research can be found on the About Me page and a list of my publications can be found on the Publications page.",
-    "crumbs": [
-      "Home"
-    ]
-  },
-  {
-    "objectID": "index.html#fun-facts",
-    "href": "index.html#fun-facts",
-    "title": "Jacob Morrison",
-    "section": "Fun Facts",
-    "text": "Fun Facts\n\nI spend a lot of time reading books (typically fantasy and thrillers)\nI also enjoy playing with my son\nFor work, I write software to aid in studying the origins of ovarian cancer",
-    "crumbs": [
-      "Home"
-    ]
-  },
-  {
-    "objectID": "index.html#basic-technical-background",
-    "href": "index.html#basic-technical-background",
-    "title": "Jacob Morrison",
-    "section": "Basic Technical Background",
-    "text": "Basic Technical Background\nHere is a basic overview of my technical skills. More detail can be found on the About Me page.\n\nPh.D. in Particle Physics\nProgramming for 13 years\n\nStarted with C++\nOver time, I’ve added Python, Rust, C, R, and other languages",
-    "crumbs": [
-      "Home"
-    ]
-  },
-  {
-    "objectID": "index.html#gvsu-cis-641-project",
-    "href": "index.html#gvsu-cis-641-project",
-    "title": "Jacob Morrison",
-    "section": "GVSU CIS 641 Project",
-    "text": "GVSU CIS 641 Project\nAs a part of my M.S. in Applied Computer Science at GVSU, I took CIS 641: Systems Analysis and Design which required a full semester project as a part of the homework.\nFor my project, I worked on a tool which calculates the “coverage” across an entire genome. A genome is the full set of A’s, T’s, C’s, and G’s that comprise a species’ DNA. The coverage is the number of “reads” (small chunks of DNA that have been sequenced), that span a given location in the genome. One of the tools I maintain at work is BISCUIT, which aligns reads to their correct location in the genome. It has a quality control step that finds the coverage to ensure a sequencing experiment has consistently covered the entire genome. Currently, the quality control step uses bedtools, but it is slow and I took the opportunity provided by my full semester project to work to improve the speed of this process. It was written in C in order to plug in to BISCUIT following completion of the class and is multithreaded for improved processing efficiency.",
-    "crumbs": [
-      "Home"
-    ]
-  },
-  {
-    "objectID": "about_me.html",
-    "href": "about_me.html",
-    "title": "About Me",
-    "section": "",
-    "text": "Undergraduate Work\nI attended the University of Alabama from 2011 to 2015, graduating with a B.S. in Physics and Mathematics with a minor in German. At Alabama, I spent time working for Dr. Dawn Williams and Dr. Conor Henderson (now at the University of Cinncinati).\nDr. Williams works on the IceCube neutrino experiment, which studies astrophysical neutrinos in the TeV to PeV energy range from active galactic nuclei and gamma ray bursts. My work involved studying calibration data and writing tests for the monitoring system used in the detector.\nAt the time, Dr. Henderson worked on the Compact Muon Solenoid (CMS) experiment, which studies a wide range of high energy physics topics, including probing the Standard Model, searching for extra dimensions, and looking for dark matter particle candidates. My work in the Henderson group focused on studying how different values used in a model would affect the kinematics of the decay products observed by the detector.\n\n\nGraduate Work\nI began my graduate research under Kendall Mahn at Michigan State University in the summer of 2015. My initial work was spent investigating possible model updates for a neutrino interaction simulator.\nIn the spring of 2016, I joined the T2K experiment, a neutrino oscillation experiment based in Tokai, Japan. That summer, I was awarded the Japan Society for the Promotion of Science (JSPS) Summer Program fellowship to study in Kashiwa, Japan for ten weeks. I spent my time in Japan studying the viability of a change to one of the third-party software programs used by T2K’s neutrino interaction simulator.\nMy dissertation research involved incorporating additional samples from the T2K near detector and testing model effects on the results of the neutrino oscillation analysis.\n\n\nCurrent Work\nAfter receiving my Ph.D. in 2019, I was hired into the Shen lab as a Bioinformatics Research Scientist. My work now involves maintaining BISCUIT, a command line tool to align and study DNA methylation using bisulfite (or bisulfite-like) sequencing data, as well as writing and maintaining other analysis tools used by myself and members of the lab.",
-    "crumbs": [
-      "About Me"
     ]
   }
 ]

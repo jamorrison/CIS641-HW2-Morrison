@@ -34,7 +34,7 @@ full semester project as a part of the homework.
 
 For my project, I worked on a tool which calculates the "coverage" across an entire genome. A genome is the full set of
 A's, T's, C's, and G's that comprise a species' DNA. The coverage is the number of "reads" (small chunks of DNA that
-have been sequenced), that span a given location in the genome. One of the tools I maintain at work is
+have been sequenced) that span a given location in the genome. One of the tools I maintain at work is
 [BISCUIT](https://github.com/huishenlab/biscuit), which aligns reads to their correct location in the genome. It has a
 quality control step that finds the coverage to ensure a sequencing experiment has consistently covered the entire
 genome. Currently, the quality control step uses [bedtools](https://github.com/arq5x/bedtools2), but it is slow and I
